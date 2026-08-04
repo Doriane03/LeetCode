@@ -5,7 +5,7 @@ int numberOfSteps(int num) {
         if(num%2==0){
             num/=2;
             i+=1;
-        }else if(num%2!=0){
+        }else{
               num-=1;
               i+=1;
         }
