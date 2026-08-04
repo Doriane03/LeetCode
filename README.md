@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Doriane03/LeetCode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Doriane03/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Doriane03/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/Doriane03/LeetCode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
